@@ -1,0 +1,17 @@
+{
+  "name": "02ReactPropsState",
+  "displayName": "02ReactPropsState",
+  "expo": {
+    "name": "02ReactPropsState",
+    "slug": "02ReactPropsState",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
